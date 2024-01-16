@@ -1,0 +1,5 @@
+print("hello operators ")
+print(5*5)
+print(4*"hello")
+print(4>5)
+print(5+6j!=6+9j)
