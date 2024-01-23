@@ -6,3 +6,4 @@ l1.append(10)
 print(l1)
 l1.insert(2,2222)
 print(l1)
+del l1[2]
