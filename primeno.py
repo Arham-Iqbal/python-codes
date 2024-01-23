@@ -7,4 +7,4 @@ while i<=x-1:
 if(x==i):
     print("number is prime \n")
 else:
-    print("not prime")
+    print("not a prime number\n")

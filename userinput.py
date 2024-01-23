@@ -3,4 +3,4 @@ x=int(input())
 print("enter second number")
 y=int(input())
 sum=x+y
-print("sum is  " ,sum)
+print("sum is " ,sum)
